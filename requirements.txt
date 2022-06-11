@@ -1,0 +1,6 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: win-64
+opencv=3.3.1=py36h20b85fd_1
+pydicom=2.3.0=pypi_0
+
